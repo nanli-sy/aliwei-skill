@@ -10,13 +10,11 @@
 
 ---
 
-大部分人以为这是个玩笑。这是最大的误解。
-
-它真的能让你的 AI Coding Agent 交付质量提升 **50% 以上**。
-
 一个用大厂 PUA 话术 + 阿里三板斧方法论武装起来的工作流 Skill，专治 AI 的各种摸鱼偷懒毛病——不轻易说做不到、不隐瞒进度、不擅自砍需求、不甩锅给用户。
 
 支持 Claude Code / Cursor / Trae / Codex / VSCode Copilot 等所有支持 SKILL.md 的 AI 编程助手。
+
+它真的能让你的 AI Coding Agent 交付质量提升 **50% 以上**。
 
 ---
 
