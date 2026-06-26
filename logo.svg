@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF8C00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFA500;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- 橙色圆形背景 -->
+  <circle cx="100" cy="100" r="90" fill="url(#bgGrad)" />
+  
+  <!-- 白色笑脸头部 -->
+  <circle cx="100" cy="82" r="38" fill="#FFFFFF" />
+  
+  <!-- 黑色眼睛 -->
+  <circle cx="85" cy="78" r="7" fill="#333333" />
+  <circle cx="115" cy="78" r="7" fill="#333333" />
+  
+  <!-- 眼睛高光 -->
+  <circle cx="87" cy="75" r="2.5" fill="#FFFFFF" />
+  <circle cx="117" cy="75" r="2.5" fill="#FFFFFF" />
+  
+  <!-- 微笑嘴巴 -->
+  <path d="M 82 92 Q 100 105 118 92" stroke="#333333" stroke-width="4" fill="none" stroke-linecap="round" />
+  
+  <!-- 黑色工牌套 -->
+  <rect x="65" y="115" width="70" height="55" rx="10" fill="#2D2D2D" />
+  
+  <!-- 工牌套两侧的小耳朵 -->
+  <rect x="55" y="130" width="12" height="25" rx="4" fill="#2D2D2D" />
+  <rect x="133" y="130" width="12" height="25" rx="4" fill="#2D2D2D" />
+  
+  <!-- 工牌挂绳连接处 -->
+  <rect x="92" y="108" width="16" height="12" rx="3" fill="#2D2D2D" />
+  <circle cx="100" cy="114" r="4" fill="url(#bgGrad)" />
+  
+  <!-- 橙色工牌 -->
+  <rect x="78" y="128" width="44" height="35" rx="6" fill="url(#bgGrad)" />
+  
+  <!-- 工牌内边框 -->
+  <rect x="82" y="132" width="36" height="27" rx="4" fill="none" stroke="#FFFFFF" stroke-width="1.5" opacity="0.5" />
+  
+  <!-- P8 文字 -->
+  <text x="100" y="152" text-anchor="middle" font-size="20" font-weight="bold" fill="#FFFFFF">P8</text>
+</svg>
