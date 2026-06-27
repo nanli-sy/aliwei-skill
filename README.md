@@ -1,4 +1,11 @@
 # 阿里味.Skill                                                     
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Qoder](https://img.shields.io/badge/qoder-skill-6C4A9E.svg)]()
+[![Version](https://img.shields.io/badge/version-1.2.0-green.svg)]()
+[![AI](https://img.shields.io/badge/AI-powered-FF6B6B.svg)]()
+[![Finance](https://img.shields.io/badge/domain-finance-2ECC71.svg)]()
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
+[![Stars](https://img.shields.io/github/stars/user/repo?style=social)]()
 
 > **给 AI 装上「尽责型人格」**
 
